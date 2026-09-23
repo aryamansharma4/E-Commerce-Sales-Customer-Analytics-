@@ -1,0 +1,217 @@
+CustomerID,Recency,Frequency,Monetary,AvgOrderValue,PrimaryCategory,Country,Churn,ChurnProbability,RiskCategory
+CUST_2338,68,36,35227.92,978.55,Electronics,Germany,1,0.7107,High Risk
+CUST_1135,375,40,32120.42,803.01,Apparel,India,1,0.9446,High Risk
+CUST_2500,372,42,31551.28,751.22,Apparel,India,1,0.9422,High Risk
+CUST_1286,371,48,31379.26,653.73,Apparel,United States,1,0.9668,High Risk
+CUST_2450,373,33,30070.94,911.24,Electronics,Germany,1,0.8175,High Risk
+CUST_2287,367,40,28840.08,721.0,Apparel,United States,1,0.9594,High Risk
+CUST_1701,368,29,27727.12,956.11,Electronics,United Kingdom,1,0.7752,High Risk
+CUST_1054,367,41,27414.96,668.66,Electronics,India,1,0.9725,High Risk
+CUST_1020,369,46,27353.42,594.64,Home & Kitchen,United States,1,0.8212,High Risk
+CUST_1173,379,41,27038.51,659.48,Electronics,United Kingdom,1,0.9655,High Risk
+CUST_1413,370,36,26677.74,741.05,Home & Kitchen,Australia,1,0.9661,High Risk
+CUST_1236,367,34,26379.41,775.86,Apparel,Germany,1,0.9578,High Risk
+CUST_1857,370,34,25850.15,760.3,Electronics,United States,1,0.9591,High Risk
+CUST_2396,380,38,25645.32,674.88,Electronics,Canada,1,0.9476,High Risk
+CUST_1022,374,36,25594.65,710.96,Electronics,United States,1,0.9429,High Risk
+CUST_1698,370,37,25323.32,684.41,Apparel,United Kingdom,1,0.9483,High Risk
+CUST_1518,375,34,25294.49,743.96,Apparel,Canada,1,0.9423,High Risk
+CUST_1592,368,39,24421.69,626.2,Apparel,Germany,1,0.9663,High Risk
+CUST_2237,369,38,24397.43,642.04,Apparel,India,1,0.9763,High Risk
+CUST_2158,367,33,24305.76,736.54,Home & Kitchen,India,1,0.961,High Risk
+CUST_2336,368,38,24164.47,635.91,Home & Kitchen,Germany,1,0.9749,High Risk
+CUST_2414,367,34,24029.92,706.76,Apparel,United States,1,0.9696,High Risk
+CUST_2012,377,38,23993.7,631.41,Electronics,Australia,1,0.9601,High Risk
+CUST_1139,368,45,23813.8,529.2,Apparel,United States,1,0.9641,High Risk
+CUST_1456,373,42,23649.71,563.09,Apparel,United Kingdom,1,0.9594,High Risk
+CUST_2082,367,31,23634.86,762.41,Apparel,United States,1,0.9506,High Risk
+CUST_1982,369,38,23463.88,617.47,Electronics,Canada,1,0.9554,High Risk
+CUST_1503,369,40,23257.32,581.43,Electronics,United States,1,0.969,High Risk
+CUST_1282,377,42,23159.21,551.41,Sports & Outdoors,United States,1,0.9637,High Risk
+CUST_1734,368,40,23155.68,578.89,Apparel,United Kingdom,1,0.9703,High Risk
+CUST_2126,367,32,22989.24,718.41,Electronics,United Kingdom,1,0.9718,High Risk
+CUST_2139,379,36,22819.04,633.86,Electronics,United Kingdom,1,0.975,High Risk
+CUST_1349,371,27,22780.93,843.74,Apparel,United States,1,0.9633,High Risk
+CUST_2439,373,37,22778.84,615.64,Home & Kitchen,United States,1,0.975,High Risk
+CUST_2221,369,36,22725.1,631.25,Apparel,Australia,1,0.9783,High Risk
+CUST_1895,374,36,22660.66,629.46,Apparel,Germany,1,0.9554,High Risk
+CUST_1933,367,31,22616.71,729.57,Apparel,Australia,1,0.9676,High Risk
+CUST_1365,370,29,22431.06,773.48,Apparel,India,1,0.9355,High Risk
+CUST_1521,374,34,22333.45,656.87,Electronics,United Kingdom,1,0.974,High Risk
+CUST_1973,373,35,22264.77,636.14,Apparel,Germany,1,0.9738,High Risk
+CUST_2373,369,29,22104.86,762.24,Electronics,India,1,0.9695,High Risk
+CUST_1928,375,27,22090.13,818.15,Home & Kitchen,United Kingdom,1,0.9633,High Risk
+CUST_1257,374,26,22084.13,849.39,Electronics,India,1,0.9818,High Risk
+CUST_2124,382,24,21977.62,915.73,Home & Kitchen,Canada,1,0.9712,High Risk
+CUST_2426,378,35,21967.8,627.65,Beauty & Personal Care,Australia,1,0.9778,High Risk
+CUST_1640,376,38,21946.94,577.55,Electronics,United States,1,0.9674,High Risk
+CUST_1787,368,27,21946.12,812.82,Home & Kitchen,United Kingdom,1,0.9713,High Risk
+CUST_1074,377,41,21830.09,532.44,Home & Kitchen,Canada,1,0.9763,High Risk
+CUST_1228,374,33,21790.58,660.32,Home & Kitchen,United States,1,0.9627,High Risk
+CUST_2195,378,27,21763.01,806.04,Apparel,United States,1,0.9685,High Risk
+CUST_1620,369,40,21730.55,543.26,Electronics,Germany,1,0.9754,High Risk
+CUST_2255,368,41,21604.73,526.94,Home & Kitchen,Germany,1,0.9769,High Risk
+CUST_1060,389,26,21412.54,823.56,Electronics,United States,1,0.988,High Risk
+CUST_1345,369,37,21372.42,577.63,Apparel,United States,1,0.977,High Risk
+CUST_1926,370,29,21274.89,733.62,Electronics,United States,1,0.9617,High Risk
+CUST_1163,367,37,21239.42,574.04,Home & Kitchen,Germany,1,0.9736,High Risk
+CUST_1812,369,44,21219.35,482.26,Apparel,Canada,1,0.8682,High Risk
+CUST_1629,372,30,21155.12,705.17,Electronics,United States,1,0.9714,High Risk
+CUST_2299,369,38,21121.44,555.83,Electronics,Germany,1,0.9724,High Risk
+CUST_1584,372,41,21027.75,512.87,Home & Kitchen,United States,1,0.9787,High Risk
+CUST_1972,375,32,21017.46,656.8,Apparel,India,1,0.9669,High Risk
+CUST_2147,372,34,20960.43,616.48,Home & Kitchen,Canada,1,0.9736,High Risk
+CUST_1852,367,33,20952.44,634.92,Apparel,Germany,1,0.9597,High Risk
+CUST_1575,367,39,20927.33,536.6,Home & Kitchen,India,1,0.9751,High Risk
+CUST_2056,367,31,20649.76,666.12,Apparel,United States,1,0.9831,High Risk
+CUST_1815,370,31,20554.5,663.05,Home & Kitchen,India,1,0.9714,High Risk
+CUST_1666,370,33,20442.08,619.46,Home & Kitchen,United States,1,0.968,High Risk
+CUST_2137,370,34,20430.36,600.89,Apparel,India,1,0.9736,High Risk
+CUST_1366,368,32,20430.12,638.44,Electronics,United States,1,0.968,High Risk
+CUST_2016,379,26,20397.84,784.53,Electronics,India,1,0.9783,High Risk
+CUST_2292,371,37,20387.02,551.0,Apparel,United States,1,0.9724,High Risk
+CUST_2480,386,41,20384.31,497.18,Apparel,United Kingdom,1,0.9802,High Risk
+CUST_1182,376,27,20349.62,753.69,Apparel,United States,1,0.9789,High Risk
+CUST_2486,370,39,20335.47,521.42,Apparel,United States,1,0.9787,High Risk
+CUST_1763,371,29,20331.29,701.08,Home & Kitchen,United States,1,0.9703,High Risk
+CUST_1092,374,33,20189.16,611.79,Home & Kitchen,Germany,1,0.9568,High Risk
+CUST_1608,369,35,20180.7,576.59,Home & Kitchen,United States,1,0.9736,High Risk
+CUST_1355,370,38,20130.62,529.75,Apparel,United States,1,0.9769,High Risk
+CUST_1610,373,31,20072.17,647.49,Home & Kitchen,Germany,1,0.9651,High Risk
+CUST_2382,370,34,20010.38,588.54,Apparel,United States,1,0.9724,High Risk
+CUST_1045,369,34,19883.11,584.8,Home & Kitchen,United States,1,0.9803,High Risk
+CUST_2289,367,40,19852.97,496.32,Apparel,United States,1,0.9763,High Risk
+CUST_1186,370,28,19796.57,707.02,Electronics,Germany,1,0.9624,High Risk
+CUST_2004,368,40,19692.67,492.32,Home & Kitchen,Germany,1,0.9769,High Risk
+CUST_1534,368,22,19619.92,891.81,Apparel,United Kingdom,1,0.9712,High Risk
+CUST_1476,380,31,19557.42,630.88,Electronics,Australia,1,0.9779,High Risk
+CUST_1051,369,37,19452.77,525.75,Electronics,Australia,1,0.9773,High Risk
+CUST_2234,375,30,19285.85,642.86,Beauty & Personal Care,United States,1,0.9758,High Risk
+CUST_1018,371,42,19211.34,457.41,Apparel,United Kingdom,1,0.982,High Risk
+CUST_1339,373,42,19209.56,457.37,Apparel,United Kingdom,1,0.9816,High Risk
+CUST_1745,370,29,19131.75,659.72,Apparel,United States,1,0.9758,High Risk
+CUST_2344,369,43,18990.78,441.65,Apparel,Germany,1,0.972,High Risk
+CUST_1497,367,38,18978.93,499.45,Home & Kitchen,United Kingdom,1,0.9769,High Risk
+CUST_1961,378,36,18857.19,523.81,Home & Kitchen,United States,1,0.9769,High Risk
+CUST_2258,367,31,18787.84,606.06,Apparel,United Kingdom,1,0.9716,High Risk
+CUST_1111,369,36,18633.2,517.59,Apparel,United States,1,0.9568,High Risk
+CUST_2321,373,30,18608.35,620.28,Apparel,United States,1,0.9721,High Risk
+CUST_2072,372,40,18604.77,465.12,Apparel,United States,1,0.9696,High Risk
+CUST_2077,371,37,18481.82,499.51,Apparel,United States,1,0.9615,High Risk
+CUST_1013,367,27,18457.1,683.6,Electronics,Canada,1,0.9783,High Risk
+CUST_2007,370,35,18443.79,526.97,Apparel,Germany,1,0.9794,High Risk
+CUST_1687,369,33,18311.3,554.89,Apparel,United Kingdom,1,0.9697,High Risk
+CUST_1752,377,22,18282.69,831.03,Apparel,India,1,0.9767,High Risk
+CUST_1100,369,34,18238.13,536.42,Apparel,United States,1,0.9783,High Risk
+CUST_2428,371,34,18220.26,535.89,Electronics,Australia,1,0.9794,High Risk
+CUST_1554,380,34,18175.58,534.58,Apparel,United Kingdom,1,0.9769,High Risk
+CUST_2010,369,38,18091.06,476.08,Home & Kitchen,United Kingdom,1,0.9743,High Risk
+CUST_1124,368,34,18089.23,532.04,Apparel,United States,1,0.9769,High Risk
+CUST_2070,372,37,18032.77,487.37,Electronics,United States,1,0.9773,High Risk
+CUST_2028,369,38,18019.13,474.19,Apparel,Canada,1,0.9787,High Risk
+CUST_1523,381,34,18012.76,529.79,Apparel,Australia,1,0.9773,High Risk
+CUST_2162,367,33,17861.96,541.27,Home & Kitchen,United States,1,0.9782,High Risk
+CUST_1117,383,35,17854.4,510.13,Home & Kitchen,Canada,1,0.9186,High Risk
+CUST_1625,372,28,17668.85,631.03,Apparel,Germany,1,0.9624,High Risk
+CUST_1916,376,36,17631.48,489.76,Apparel,United Kingdom,1,0.9677,High Risk
+CUST_1165,368,27,17617.8,652.51,Apparel,United States,1,0.9745,High Risk
+CUST_1710,367,28,17528.13,626.0,Home & Kitchen,Germany,1,0.9761,High Risk
+CUST_1316,368,31,17497.97,564.45,Apparel,Germany,1,0.9682,High Risk
+CUST_1085,368,28,17409.35,621.76,Apparel,United States,1,0.9745,High Risk
+CUST_2030,370,36,17401.77,483.38,Apparel,Canada,1,0.9755,High Risk
+CUST_1574,373,29,17332.68,597.68,Apparel,Germany,1,0.9682,High Risk
+CUST_2202,367,29,17329.39,597.57,Apparel,United States,1,0.9766,High Risk
+CUST_2285,370,25,17327.85,693.11,Home & Kitchen,United States,1,0.9551,High Risk
+CUST_1216,373,31,17299.38,558.04,Apparel,United States,1,0.967,High Risk
+CUST_1821,370,38,17273.08,454.55,Apparel,Canada,1,0.9705,High Risk
+CUST_2363,368,30,17156.32,571.88,Apparel,Germany,1,0.9755,High Risk
+CUST_2496,367,31,16990.31,548.07,Beauty & Personal Care,Germany,1,0.9535,High Risk
+CUST_2343,373,37,16931.3,457.6,Home & Kitchen,India,1,0.9577,High Risk
+CUST_1674,374,31,16814.08,542.39,Apparel,United Kingdom,1,0.967,High Risk
+CUST_2464,369,29,16813.28,579.77,Electronics,Germany,1,0.9681,High Risk
+CUST_1708,374,32,16776.18,524.26,Apparel,Canada,1,0.9677,High Risk
+CUST_1274,367,37,16751.69,452.75,Home & Kitchen,India,1,0.9736,High Risk
+CUST_1737,384,36,16726.63,464.63,Apparel,United States,1,0.9705,High Risk
+CUST_1382,374,41,16612.52,405.18,Apparel,Germany,1,0.9766,High Risk
+CUST_1636,391,28,16598.66,592.81,Apparel,United Kingdom,1,0.9745,High Risk
+CUST_2283,371,26,16391.67,630.45,Apparel,United Kingdom,1,0.9693,High Risk
+CUST_1883,383,34,16246.43,477.84,Apparel,United States,1,0.965,High Risk
+CUST_1479,386,39,16180.59,414.89,Apparel,Australia,1,0.9713,High Risk
+CUST_2306,368,38,16170.17,425.53,Apparel,India,1,0.9691,High Risk
+CUST_1412,368,32,16161.22,505.04,Home & Kitchen,Australia,1,0.96,High Risk
+CUST_2303,367,35,16140.74,461.16,Home & Kitchen,United States,1,0.9636,High Risk
+CUST_1528,372,34,16010.41,470.89,Apparel,United States,1,0.9686,High Risk
+CUST_2290,367,35,15885.93,453.88,Apparel,United States,1,0.9687,High Risk
+CUST_1930,370,30,15875.94,529.2,Apparel,United States,1,0.9389,High Risk
+CUST_2337,367,43,15819.85,367.9,Apparel,United States,1,0.8643,High Risk
+CUST_1219,394,32,15761.95,492.56,Apparel,Germany,1,0.964,High Risk
+CUST_2490,379,34,15715.93,462.23,Apparel,United Kingdom,1,0.9666,High Risk
+CUST_1744,368,29,15714.62,541.88,Apparel,United Kingdom,1,0.9526,High Risk
+CUST_1172,368,27,15680.87,580.77,Sports & Outdoors,United States,1,0.9436,High Risk
+CUST_2239,369,26,15625.61,600.98,Home & Kitchen,Australia,1,0.964,High Risk
+CUST_2054,378,31,15474.6,499.18,Apparel,Canada,1,0.9558,High Risk
+CUST_1719,369,28,15464.67,552.31,Electronics,United States,1,0.9606,High Risk
+CUST_1614,368,32,15287.16,477.72,Beauty & Personal Care,United States,1,0.9512,High Risk
+CUST_1390,368,29,15158.72,522.71,Apparel,Canada,1,0.9678,High Risk
+CUST_1826,367,34,15128.22,444.95,Apparel,India,1,0.9657,High Risk
+CUST_2266,367,28,15035.39,536.98,Home & Kitchen,United States,1,0.9757,High Risk
+CUST_1607,370,27,14860.01,550.37,Home & Kitchen,United States,1,0.9457,High Risk
+CUST_2361,370,33,14822.15,449.16,Electronics,India,1,0.9678,High Risk
+CUST_2455,368,35,14732.94,420.94,Sports & Outdoors,United States,1,0.9686,High Risk
+CUST_2469,379,38,14661.14,385.82,Apparel,India,1,0.9625,High Risk
+CUST_1579,370,31,14660.74,472.93,Apparel,United Kingdom,1,0.9496,High Risk
+CUST_1545,372,30,14561.36,485.38,Apparel,Germany,1,0.9688,High Risk
+CUST_2458,367,36,14527.86,403.55,Apparel,Germany,1,0.9625,High Risk
+CUST_1733,369,29,14141.61,487.64,Home & Kitchen,Germany,1,0.9736,High Risk
+CUST_1983,386,34,14121.15,415.33,Apparel,United States,1,0.9682,High Risk
+CUST_1166,371,24,13991.61,582.98,Home & Kitchen,Canada,1,0.9684,High Risk
+CUST_1601,368,36,13976.82,388.24,Apparel,United States,1,0.9625,High Risk
+CUST_1255,367,29,13974.66,481.88,Apparel,United States,1,0.9678,High Risk
+CUST_2354,379,34,13959.74,410.58,Apparel,Germany,1,0.9686,High Risk
+CUST_1755,378,29,13929.9,480.34,Apparel,United States,1,0.9412,High Risk
+CUST_1999,372,34,13916.21,409.3,Apparel,Australia,1,0.9682,High Risk
+CUST_1187,375,27,13902.1,514.89,Home & Kitchen,Canada,1,0.9587,High Risk
+CUST_1140,368,32,13663.55,426.99,Apparel,Australia,1,0.9532,High Risk
+CUST_1998,385,30,13573.57,452.45,Sports & Outdoors,United States,1,0.9622,High Risk
+CUST_2371,368,29,13457.3,464.04,Apparel,Australia,1,0.9533,High Risk
+CUST_1986,368,33,13403.63,406.17,Home & Kitchen,United Kingdom,1,0.9646,High Risk
+CUST_1775,388,27,13364.2,494.97,Electronics,Canada,1,0.9704,High Risk
+CUST_1952,380,34,13254.49,389.84,Apparel,Germany,1,0.9686,High Risk
+CUST_2465,374,32,13241.83,413.81,Beauty & Personal Care,Australia,1,0.9715,High Risk
+CUST_1882,370,25,13208.55,528.34,Apparel,Germany,1,0.9768,High Risk
+CUST_2304,368,27,13033.45,482.72,Apparel,United Kingdom,1,0.9597,High Risk
+CUST_2372,368,31,12939.91,417.42,Home & Kitchen,United States,1,0.9428,High Risk
+CUST_1417,369,37,12917.33,349.12,Home & Kitchen,United States,1,0.9433,High Risk
+CUST_1328,369,30,12840.36,428.01,Home & Kitchen,Germany,1,0.9666,High Risk
+CUST_1845,369,33,12793.34,387.68,Electronics,United States,1,0.9679,High Risk
+CUST_1301,368,30,12742.0,424.73,Beauty & Personal Care,United States,1,0.9679,High Risk
+CUST_1199,371,25,12668.49,506.74,Electronics,India,1,0.966,High Risk
+CUST_1455,376,25,12644.89,505.8,Apparel,United States,1,0.9768,High Risk
+CUST_1805,370,29,12629.93,435.51,Home & Kitchen,United Kingdom,1,0.966,High Risk
+CUST_2218,367,31,12556.59,405.05,Apparel,Germany,1,0.9691,High Risk
+CUST_1909,369,30,12521.19,417.37,Beauty & Personal Care,United States,1,0.9462,High Risk
+CUST_1513,374,29,12506.97,431.27,Home & Kitchen,India,1,0.9549,High Risk
+CUST_1706,383,29,12495.2,430.87,Home & Kitchen,Australia,1,0.9809,High Risk
+CUST_1692,370,33,12489.72,378.48,Apparel,United Kingdom,1,0.946,High Risk
+CUST_1156,370,29,12276.06,423.31,Beauty & Personal Care,United States,1,0.9329,High Risk
+CUST_1353,370,24,12015.72,500.66,Beauty & Personal Care,Germany,1,0.9772,High Risk
+CUST_1273,372,28,11848.4,423.16,Apparel,India,1,0.9773,High Risk
+CUST_1201,369,26,11792.69,453.56,Home & Kitchen,Germany,1,0.9711,High Risk
+CUST_2386,388,30,11632.54,387.75,Home & Kitchen,United States,1,0.9679,High Risk
+CUST_2122,371,29,11214.34,386.7,Apparel,Australia,1,0.9773,High Risk
+CUST_1331,375,28,10886.31,388.8,Home & Kitchen,United States,1,0.9784,High Risk
+CUST_1935,368,32,10835.26,338.6,Apparel,United States,1,0.957,High Risk
+CUST_1976,372,25,10622.06,424.88,Home & Kitchen,United States,1,0.9646,High Risk
+CUST_1168,368,21,10478.2,498.96,Electronics,United States,1,0.9609,High Risk
+CUST_2302,377,24,10349.52,431.23,Apparel,India,1,0.9605,High Risk
+CUST_1988,367,28,10126.53,361.66,Beauty & Personal Care,United Kingdom,1,0.957,High Risk
+CUST_2235,367,26,9400.61,361.56,Apparel,Germany,1,0.9565,High Risk
+CUST_1962,370,25,9363.5,374.54,Apparel,Germany,1,0.9597,High Risk
+CUST_1407,386,23,9262.69,402.73,Beauty & Personal Care,United States,1,0.9734,High Risk
+CUST_1714,381,23,9125.31,396.75,Beauty & Personal Care,United Kingdom,1,0.9459,High Risk
+CUST_2175,377,28,9064.82,323.74,Apparel,Germany,1,0.9153,High Risk
+CUST_1623,371,27,8730.95,323.37,Home & Kitchen,United States,1,0.9647,High Risk
+CUST_1541,371,27,8046.52,298.02,Apparel,Australia,1,0.9698,High Risk
+CUST_2407,368,25,7594.91,303.8,Apparel,Canada,1,0.9826,High Risk
+CUST_1686,368,26,7512.98,288.96,Home & Kitchen,United Kingdom,1,0.9737,High Risk
+CUST_1854,368,29,7251.5,250.05,Beauty & Personal Care,India,1,0.9795,High Risk

@@ -1,0 +1,65 @@
+{
+  "financial_overview": {
+    "total_revenue": 29180012.41,
+    "total_orders": 49754,
+    "total_customers": 1500,
+    "average_order_value": 586.49
+  },
+  "top_category": {
+    "name": "Electronics",
+    "revenue": 16593350.91,
+    "share_of_total_pct": 56.9
+  },
+  "customer_segmentation": [
+    {
+      "CustomerSegment": "At-Risk / Inactive",
+      "CustomerCount": 570,
+      "SegmentRevenue": 8578627.320000008,
+      "AvgRecency": 18.659649122807018
+    },
+    {
+      "CustomerSegment": "High-Value VIPs",
+      "CustomerCount": 168,
+      "SegmentRevenue": 5613514.95,
+      "AvgRecency": 18.0
+    },
+    {
+      "CustomerSegment": "Loyal Regulars",
+      "CustomerCount": 547,
+      "SegmentRevenue": 11112280.149999999,
+      "AvgRecency": 15.394881170018282
+    },
+    {
+      "CustomerSegment": "Occasional Buyers",
+      "CustomerCount": 215,
+      "SegmentRevenue": 3875589.989999998,
+      "AvgRecency": 371.9674418604651
+    }
+  ],
+  "churn_risk_analysis": {
+    "high_risk_customer_count": 216,
+    "high_risk_revenue_at_risk": 3917393.04,
+    "breakdown": [
+      {
+        "RiskCategory": "High Risk",
+        "CustomerCount": 216,
+        "RevenueAtRisk": 3917393.0399999977
+      },
+      {
+        "RiskCategory": "Low Risk",
+        "CustomerCount": 1268,
+        "RevenueAtRisk": 24936644.850000028
+      },
+      {
+        "RiskCategory": "Medium Risk",
+        "CustomerCount": 16,
+        "RevenueAtRisk": 325974.52
+      }
+    ]
+  },
+  "sales_forecasting": {
+    "last_30_day_actual_revenue": 1382608.26,
+    "next_30_day_predicted_revenue": 1154364.05,
+    "projected_revenue_change_pct": -16.51
+  }
+}
